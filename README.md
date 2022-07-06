@@ -23,7 +23,7 @@ The Shortcut script (will be uploaded soon) writes some changes to a .json-file 
 
 Why Dropbox?
 
-- It is the best integrated cloud service both in Shortcuts and Linux I could find)
+- It is the best integrated cloud service both in Shortcuts and Linux I could find
 
 Why not ssh to run scripts?
 
@@ -31,8 +31,6 @@ Why not ssh to run scripts?
 
 ## Installation
 
-- Linux (under Ubuntu): the python script need watchdog
-
-``` pip install watchdog ```
+- Linux (under Ubuntu): the python script need watchdog: ```pip install watchdog```
 
 - iOS: in the shortcuts app put in every script or automation a dictionary with a suited key and value (e.g. "focus":"work" or "battery":"20%") and feed it to the shortcut (will be uploaded shortly)
